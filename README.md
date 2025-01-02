@@ -1,5 +1,7 @@
 # Classifying Galaxies Using Convolutional Neural Networks
 
+## Link to the dataset - https://www.zooniverse.org/projects/zookeeper/galaxy-zoo/
+
 ## Overview
 Telescopes worldwide capture millions of images of celestial objects, including galaxies, stars, and planets. These datasets are invaluable to astronomers but require annotation to be useful for scientific analysis. This project leverages deep learning to classify galaxies into four categories based on their unique characteristics, using data from the Galaxy Zoo initiative.
 
