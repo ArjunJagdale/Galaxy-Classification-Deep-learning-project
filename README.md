@@ -1,6 +1,6 @@
 # Classifying Galaxies Using Convolutional Neural Networks
 
-I recommend using the images from [Galaxy zoo](https://www.zooniverse.org/projects/zookeeper/galaxy-zoo/collections) as this project is a part of the course "Building deep learning models with tensorflow" by CodeCademy. And the images used in the IDE are taken from the galaxy zoo too. So you can try to create a mini dataset by yourself!
+I recommend using the images from [Galaxy zoo](https://www.zooniverse.org/projects/zookeeper/galaxy-zoo/collections) as this project is a part of the course "Building deep learning models with tensorflow" by CodeCademy. The images used in the Codecademy's IDE were taken from the galaxy zoo too. So you can try to create a mini dataset by yourself!
 
 ## Overview
 Telescopes worldwide capture millions of images of celestial objects, including galaxies, stars, and planets. These datasets are invaluable to astronomers but require annotation to be useful for scientific analysis. This project leverages deep learning to classify galaxies into four categories based on their unique characteristics, using data from the Galaxy Zoo initiative.
